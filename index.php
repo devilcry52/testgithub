@@ -1,2 +1,2 @@
 <?php
-echo 1;die;
+echo 2;die;
